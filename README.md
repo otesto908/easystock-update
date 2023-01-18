@@ -1,1 +1,1 @@
-# ezStock-update
+# ezstock-update
